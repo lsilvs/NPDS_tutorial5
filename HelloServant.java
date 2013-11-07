@@ -7,6 +7,6 @@ class HelloServant extends _HelloImplBase {
 
 	public String sayHello() {
 	// Add the method implementation here in the next step.
-	return "\nHello, World!\n";
+	return "\nA call has been received!\n";
 	}
 }
